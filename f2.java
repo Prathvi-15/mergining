@@ -1,1 +1,2 @@
-f2.java of master
+f2.java of master\
+hi
